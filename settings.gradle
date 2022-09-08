@@ -1,0 +1,6 @@
+
+rootProject.name = "Kontin_App"
+include ':app'
+include ':Library_login'
+include ':Library_Base'
+include ':Library_Mian'
